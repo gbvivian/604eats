@@ -31,6 +31,7 @@ class Post extends Component {
                 </div>
                 <div className="Post-caption">
                     {/* <strong>{nickname}</strong>{caption} */}
+                    {caption}
                 </div>
             </article>
         );
